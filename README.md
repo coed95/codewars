@@ -1,1 +1,1 @@
-"all completed katas" 
+all completed katas
