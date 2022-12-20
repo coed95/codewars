@@ -1,1 +1,1 @@
-"all completed katas" 
+all completed katas from [codewars.com](https://codewars.com)
