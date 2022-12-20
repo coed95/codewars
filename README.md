@@ -1,1 +1,1 @@
-all completed katas
+katas from codewars.com
